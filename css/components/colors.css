@@ -1,0 +1,29 @@
+/* - White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%) */
+
+:root{
+
+  --cor-0:hsl(0, 0%, 100%);
+  --cor-1:hsl(212, 45%, 89%);
+  --cor-2:hsl(220, 15%, 55%);
+  --cor-3:hsl(218, 44%, 22%);
+
+}
+
+.cor-0{
+  color:var(--cor-0)
+}
+
+.cor-1{
+  color:var(--cor-1)
+}
+
+.cor-2{
+  color:var(--cor-2)
+}
+
+.cor-3{
+  color:var(--cor-3)
+}
